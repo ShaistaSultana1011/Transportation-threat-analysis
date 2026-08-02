@@ -52,6 +52,9 @@ Conditional Imputation → Defect_of_vehicle filled using Service_year_of_vehicl
 
 <img width="1114" height="520" alt="Screenshot 2026-08-03 003538" src="https://github.com/user-attachments/assets/6ebef60f-d309-450f-bc1b-e0da058c3cdd" />
 
+<img width="530" height="198" alt="Screenshot 2026-08-03 003526" src="https://github.com/user-attachments/assets/23379cff-8a24-492d-90b1-e547d11eeae6" />
+
+
 <img width="333" height="609" alt="Screenshot 2026-08-03 004637" src="https://github.com/user-attachments/assets/cddd4eca-c6cf-48b5-8664-dc4c7df5a06d" />
 
 
