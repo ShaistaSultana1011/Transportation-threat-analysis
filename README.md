@@ -21,4 +21,9 @@ DATA CLEANING:
 
 1.Checking duplicates
 
+<img width="399" height="75" alt="Screenshot 2026-08-03 003316" src="https://github.com/user-attachments/assets/a6733578-431b-4269-aa39-7190375dd752" />
+
+
+
+
 
