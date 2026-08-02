@@ -38,5 +38,25 @@ Categorical columns (Age_band_of_driver, Sex_of_driver, Educational_level, Vehic
 
 Conditional Imputation → Defect_of_vehicle filled using Service_year_of_vehicle values
 
+<img width="384" height="617" alt="Screenshot 2026-08-03 003353" src="https://github.com/user-attachments/assets/b43c9021-e9a1-4ba3-a341-2057e27d1648" />
+
+
+<img width="781" height="398" alt="Screenshot 2026-08-03 003414" src="https://github.com/user-attachments/assets/e6878162-6bcc-41c8-8858-7af05a4ff766" />
+
+
+<img width="627" height="242" alt="Screenshot 2026-08-03 003451" src="https://github.com/user-attachments/assets/252c38e5-451b-4e8c-a936-f83063c706a7" />
+
+
+<img width="640" height="87" alt="Screenshot 2026-08-03 003506" src="https://github.com/user-attachments/assets/7d960831-2468-4b23-8d41-b609680bdefb" />
+
+<img width="530" height="198" alt="Screenshot 2026-08-03 003526" src="https://github.com/user-attachments/assets/2a3700f8-44ba-46b5-9923-4dd6d409bf69" />
+
+<img width="1175" height="903" alt="Screenshot 2026-08-03 003709" src="https://github.com/user-attachments/assets/5702a497-d567-4118-bdd6-c15b5dc23e9f" />
+
+
+
+
+
+
 
 
