@@ -1,6 +1,6 @@
 DATASET OVERVIEW:
 
-This project uses a Road Traffic Accident Dataset containing records of traffic accidents along with information about drivers, vehicles, road conditions, environmental factors, and casualties. The dataset is intended for exploratory data analysis (EDA) to identify accident patterns, contributing factors, and trends.
+This project uses a Road Traffic Accident Dataset containing records of traffic accidents along with information about drivers, vehicles, road conditions, environmental factors, and casualties. It is used to analyze accident patterns, identify contributing factors, and support data-driven road safety insights. 
 
 Key features include:
 
