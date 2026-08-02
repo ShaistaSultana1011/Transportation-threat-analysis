@@ -26,9 +26,6 @@ DATA CLEANING:
 
 2.Handled missing vakues
 
-.
-
-Handled Missing Values
 
 Categorical columns (Age_band_of_driver, Sex_of_driver, Educational_level, Vehicle_driver_relation, Driving_experience, Type_of_vehicle, Owner_of_vehicle, Service_year_of_vehicle, Defect_of_vehicle, Area_accident_occured, Lanes_or_Medians, Road_allignment, Types_of_Junction, Road_surface_type, Road_surface_conditions, Light_conditions, Weather_conditions, Type_of_collision, Vehicle_movement, Cause_of_accident) → Replaced missing values with "Unknown".
 
