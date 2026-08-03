@@ -29,10 +29,9 @@ DATA CLEANING:
 No duplicate rows were found so no records were removed
 
 
-2.Handled missing vakues
+2.Handled missing valwork of casulityues
 
-
-Categorical columns (Age_band_of_driver, Sex_of_driver, Educational_level, Vehicle_driver_relation, Driving_experience, Type_of_vehicle, Owner_of_vehicle, Service_year_of_vehicle, Defect_of_vehicle, Area_accident_occured, Lanes_or_Medians, Road_allignment, Types_of_Junction, Road_surface_type, Road_surface_conditions, Light_conditions, Weather_conditions, Type_of_collision, Vehicle_movement, Cause_of_accident) → Replaced missing values with "Unknown".
+ Educational_level, Vehicle_driver_relation, Driving_experience, Type_of_vehicle, Service_year_of_vehicle, Area_accident_occured, Lanes_or_Medians, Road_allignment, Types_of_Junction, Road_surface_type, Type_of_collision, Vehicle_movement,work_of_casualty,sex_of_casulity,Age_band_of_casualty ,casualty_class→ Replaced missing values with "Unknown".
 
 
  Owner_of_vehicle, Fitness_of_casualty, and Casualty_severity  → Filled misiing values using the mode.
