@@ -29,7 +29,8 @@ DATA CLEANING:
 No duplicate rows were found so no records were removed
 
 
-2.Handled missing valwork of casulityues
+
+2.Handled missing values
 
  Educational_level, Vehicle_driver_relation, Driving_experience, Type_of_vehicle, Service_year_of_vehicle, Area_accident_occured, Lanes_or_Medians, Road_allignment, Types_of_Junction, Road_surface_type, Type_of_collision, Vehicle_movement,work_of_casualty,sex_of_casulity,Age_band_of_casualty ,casualty_class→ Replaced missing values with "Unknown".
 
