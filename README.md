@@ -71,8 +71,11 @@ Milestone 3 — Power BI Dashboards
 Developed dashboards focused on:
 
 📍 Hotspot Intelligence Maps
+
 🗺️ Risk Surface Visualization
+
 🚨 Incident Response Planning 
+
 🛡️  Resource Deployment & Operational Coverage
 
 
@@ -84,8 +87,11 @@ Milestone 4 — Power BI Dashboards
 Developed dashboards focused on:
 
 🛡️ Security Risk Assessment
+
 🔮 Predictive Threat Analytics
+
 📊 Executive Command Center
+
 🔔 Forecasting,Alerting,Security &  Performance Optimization
 
 
