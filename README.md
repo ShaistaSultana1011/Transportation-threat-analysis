@@ -27,7 +27,10 @@ Casualty information (casualty class, severity, work of casualty)
 Accident-related details (number of vehicles, number of casualties, cause of accident)
 
 
+
+
 📌 Project Milestones
+
 
 Milestone 1 — Data Cleaning
 
@@ -74,6 +77,8 @@ Power BI: DAX, Interactive Dashboards
 Analytics: Data Cleaning, EDA, Feature Engineering
 
 
+
+
 🔄 Workflow
 Raw Data
    ↓
@@ -84,9 +89,13 @@ EDA & Preprocessing
 Power BI Dashboards
 
 
+
+
 👥 Team
 
 Shaista Sultana · Subasri · Rhutuja Kshirsagar · Pavana R
+
+
 
 📊 Project Outcome
 
