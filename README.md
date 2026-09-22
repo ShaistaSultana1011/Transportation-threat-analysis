@@ -29,7 +29,7 @@ Accident-related details (number of vehicles, number of casualties, cause of acc
 
 
 
-📌 Project Milestones
+📌 PROJECT MILESTONES
 
 
 Milestone 1 — Data Cleaning
