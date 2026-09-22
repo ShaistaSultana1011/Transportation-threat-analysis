@@ -37,8 +37,11 @@ Accident-related details (number of vehicles, number of casualties, cause of acc
 Milestone 1 — Data Cleaning
 
 Understood the Road Transportation Accident dataset
+
 Checked duplicates and missing values
+
 Handled missing data using appropriate imputation techniques
+
 Applied conditional imputation for vehicle defects.
 
 
@@ -48,9 +51,13 @@ Applied conditional imputation for vehicle defects.
 Milestone 2 — EDA & Preprocessing
 
 Converted data types for efficient analysis
+
 Detected and handled outliers using the IQR method
+
 Performed feature engineering
+
 Created time, weather, vehicle and casualty-based features
+
 Selected relevant features and validated the final dataset
 
 Final dataset: 12,316 rows × 33 columns
