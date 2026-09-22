@@ -34,6 +34,7 @@ Accident-related details (number of vehicles, number of casualties, cause of acc
 📌 PROJECT MILESTONES
 
 
+
 Milestone 1 — Data Cleaning
 
 Understood the Road Transportation Accident dataset
@@ -43,6 +44,10 @@ Checked duplicates and missing values
 Handled missing data using appropriate imputation techniques
 
 Applied conditional imputation for vehicle defects.
+
+
+
+
 
 
 
@@ -61,6 +66,10 @@ Created time, weather, vehicle and casualty-based features
 Selected relevant features and validated the final dataset
 
 Final dataset: 12,316 rows × 33 columns
+
+
+
+
 
 
 
@@ -93,6 +102,11 @@ Developed dashboards focused on:
 📊 Executive Command Center
 
 🔔 Forecasting,Alerting,Security &  Performance Optimization
+
+
+
+
+
 
 
 
