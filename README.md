@@ -39,6 +39,7 @@ Environmental conditions (weather, light conditions)
 Casualty information (casualty class, severity, work of casualty)
 
 Accident-related details (number of vehicles, number of casualties, cause of accident)
+<<<<<<< HEAD
 
 
 
@@ -242,3 +243,5 @@ The project transformed raw accident data into a Transportation Threat Analytics
 
 
 
+=======
+>>>>>>> 81b2f8f63cc93dc28615928029bfa6c3368ae9b8
