@@ -243,5 +243,4 @@ The project transformed raw accident data into a Transportation Threat Analytics
 
 
 
-=======
->>>>>>> 81b2f8f63cc93dc28615928029bfa6c3368ae9b8
+
