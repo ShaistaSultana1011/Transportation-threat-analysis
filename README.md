@@ -29,6 +29,8 @@ Accident-related details (number of vehicles, number of casualties, cause of acc
 
 
 
+
+
 📌 PROJECT MILESTONES
 
 
@@ -38,6 +40,9 @@ Understood the Road Transportation Accident dataset
 Checked duplicates and missing values
 Handled missing data using appropriate imputation techniques
 Applied conditional imputation for vehicle defects.
+
+
+
 
 
 Milestone 2 — EDA & Preprocessing
@@ -51,6 +56,9 @@ Selected relevant features and validated the final dataset
 Final dataset: 12,316 rows × 33 columns
 
 
+
+
+
 Milestone 3 — Power BI Dashboards
 
 Developed dashboards focused on:
@@ -59,6 +67,9 @@ Developed dashboards focused on:
 🗺️ Risk Surface Visualization
 🚨 Incident Response Planning 
 🛡️  Resource Deployment & Operational Coverage
+
+
+
 
 
 Milestone 4 — Power BI Dashboards
@@ -71,10 +82,16 @@ Developed dashboards focused on:
 🔔 Forecasting,Alerting,Security &  Performance Optimization
 
 
+
+
+
+
 🛠️ Tools & Technologies
 Python: Pandas, NumPy
 Power BI: DAX, Interactive Dashboards
 Analytics: Data Cleaning, EDA, Feature Engineering
+
+
 
 
 
@@ -91,9 +108,14 @@ Power BI Dashboards
 
 
 
+
+
 👥 Team
 
 Shaista Sultana · Subasri · Rhutuja Kshirsagar · Pavana R
+
+
+
 
 
 
